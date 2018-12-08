@@ -4,8 +4,13 @@ body {
 }
 
 .jesseBio {
-    background-color: #888889;
+    background-color: #666666;
     margin: 20px 0px;
+    font-size: 18px;
+    font-family: 'Cardo', serif;
+    border:#black  solid 5px;
+    border-radius:5px;
+    color: #111100;
 }
 
 #jesseImg {
@@ -14,4 +19,79 @@ body {
     margin-left: 5px;
     border: 1px solid black;
     float: left;
+}
+
+.navEdit {
+    font-family: 'Unlock', cursive;
+    background-image: url("../Art/little_pluses.jpg");
+}
+
+.homeBtn {
+    font-size: 40px;
+}
+
+.navItems {
+    font-size: 25px;
+}
+
+.contactme {
+    background-color: #666666;
+    margin: 20px 0px;
+    font-family: 'Cardo', serif;
+    border:#black  solid 5px;
+    border-radius:5px;
+    color: #111100;
+}
+
+.contactH1 {
+    font-family: 'Unlock', cursive; 
+}
+
+.contactStyle {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.commentEdit {
+    height: 200px;
+    text-align: initial;
+}
+
+.portBox {
+    background-color: #666666;
+    height:75%;
+    margin-top: 20px;
+    border:black  solid 5px;
+    border-radius:5px;
+    color: #111100;
+}
+.portfolioItems {
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
+
+.copyright {
+    text-align: center;
+    width: 100%;
+    font-family: 'Unlock', cursive;
+    font-size: 16px;
+}
+
+.cardtext {
+    font-family: 'Unlock', cursive;
+    font-size: 26px;
+    background-image: url("../Art/little_pluses.jpg");
+}
+
+.footer {
+    background-image: url("../Art/little_pluses.jpg");
+}
+
+.submitBtn {
+    margin-bottom: 20px;
+    font-family: 'Cardo', serif;
+    font-weight: bold;
+    width: 150px;
+
 }
