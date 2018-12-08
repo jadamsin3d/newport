@@ -1,0 +1,17 @@
+body {
+    background-image: url("../Art/zwartevilt.jpg");
+    background-repeat: repeat;
+}
+
+.jesseBio {
+    background-color: #888889;
+    margin: 20px 0px;
+}
+
+#jesseImg {
+    width: 20%;
+    margin: 20px;
+    margin-left: 5px;
+    border: 1px solid black;
+    float: left;
+}
